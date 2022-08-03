@@ -24,7 +24,13 @@
 
 
 body {
-  background-color: #EAEBEE;
+  background-color: #313137;
+  background-image: url(https://ae01.alicdn.com/kf/HTB1JhIYasnrK1RkHFrdq6xCoFXaf/Arri-re-plan-Dragon-Mountain-Hell-Flame-imprim-pour-ordinateur-de-haute-qualit-pour-f-te.jpg_Q90.jpg_.webp);
+  background-size: 100%;
+  -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
 }
 
 h1 {
@@ -51,7 +57,7 @@ h2 {
   border: 3px, solid, darkorange;
   text-align: center;
   margin: 0 auto;
-  box-shadow: 4px 4px 4px rgb(192, 190, 190);
+  box-shadow: 4px 4px 4px rgb(33, 32, 32);
   background-image: url(https://img1.picmix.com/output/stamp/normal/6/8/5/5/1495586_f1a0b.gif);
   background-size: 100%;
 
@@ -71,9 +77,10 @@ h2 {
   text-align: center;
   margin: 0 auto;
   padding-bottom: 10px;
-  box-shadow: 4px 4px 4px rgb(192, 190, 190);
+  box-shadow: 4px 4px 4px rgb(33, 32, 32);
   background-image: url(https://thumbs.gfycat.com/AlarmingKeenHydra-size_restricted.gif);
   background-size: 100%;
+
 }
 
 .description {
