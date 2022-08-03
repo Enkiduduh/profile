@@ -54,13 +54,13 @@ h2 {
 
 .intro {
   height: 350px;
-  /* border: 3px, solid, darkorange; */
+  border: 10px, solid, black;
   text-align: center;
   margin: 0 auto;
   box-shadow: 4px 4px 4px rgb(33, 32, 32);
   background-image: url(https://img1.picmix.com/output/stamp/normal/6/8/5/5/1495586_f1a0b.gif);
   background-size: 100%;
-
+  border-radius: 35px;
 }
 .img-circle {
   border-radius: 50%;
@@ -80,6 +80,7 @@ h2 {
   box-shadow: 4px 4px 4px rgb(33, 32, 32);
   background-image: url(https://thumbs.gfycat.com/AlarmingKeenHydra-size_restricted.gif);
   background-size: 100%;
+  border-radius: 35px;
 
 }
 
