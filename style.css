@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=New+Rocker&family=Sriracha&display=swap');
+
+
+@media (max-width: 960px) {
+  /* Pour un écran < 960px, cette classe CSS s'applique */
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  /* Pour un écran < 720px, cette classe CSS s'applique */
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  /* Pour un écran < 540px, cette classe CSS s'applique */
+  .container {
+    width: 300px;
+  }
+}
+
+
+body {
+  background-color: #EAEBEE;
+}
+
+h1 {
+  color: #19647E;
+  font-family: 'New Rocker', cursive;
+  font-size: 32px;
+  padding-top: 15px;
+}
+
+h2 {
+  color: #19647E;
+  font-family: 'New Rocker', cursive;
+  padding: 15px;
+}
+
+.container {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.intro {
+  height: 350px;
+  background-color: rgba(254, 254, 254, 0.915);
+  border: 3px, solid, darkorange;
+  text-align: center;
+  margin: 0 auto;
+  box-shadow: 4px 4px 4px rgb(192, 190, 190);
+
+}
+.img-circle {
+  border-radius: 50%;
+}
+
+.intro_contains{
+  display : table;
+  margin : 0 auto;
+}
+
+.footer {
+  background-color: rgb(248, 246, 246);
+  border: 3px, solid, darkorange;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  box-shadow: 4px 4px 4px rgb(192, 190, 190);
+}
+
+.description {
+  color: #19647E;
+  font-size:18px;
+  font-family: 'Metal Mania', cursive;
+  padding-bottom: 10px;
+}
+
+.icons a {
+  color: #19647E;
+  font-size: 32px;
+  display: inline-block;
+}
+
+.icons li {
+  display: inline-block;
+  padding: 0px 20px;
+  align-items: center;
+}
+
+.icons{
+  padding-left: 0px;
+}
+
+.btn1 {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  border: 1px, solid, #EE964B;
+  background-color: #EE964B ;
+  padding: 15px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #ffffff;
+  background-color:#19647E;
+
+}
