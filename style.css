@@ -24,6 +24,7 @@
 
 
 body {
+  margin-top: 50px;
   background-color: #313137;
   background-image: url(https://ae01.alicdn.com/kf/HTB1JhIYasnrK1RkHFrdq6xCoFXaf/Arri-re-plan-Dragon-Mountain-Hell-Flame-imprim-pour-ordinateur-de-haute-qualit-pour-f-te.jpg_Q90.jpg_.webp);
   background-size: 100%;
@@ -53,8 +54,7 @@ h2 {
 
 .intro {
   height: 350px;
-  background-color: rgba(254, 254, 254, 0.915);
-  border: 3px, solid, darkorange;
+  /* border: 3px, solid, darkorange; */
   text-align: center;
   margin: 0 auto;
   box-shadow: 4px 4px 4px rgb(33, 32, 32);
